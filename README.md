@@ -1,5 +1,5 @@
 # OCR
-## Python project implementing Optical Character Recognition (OCR) 
+## Optical Character Recognition
 
 OCR Project for Text Recognition<br>
 This Python project implements Optical Character Recognition (OCR) for Arabic text using the library ArabicOcr and for other languages like english and frensh using the library EasyOCR.
